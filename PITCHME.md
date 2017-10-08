@@ -1,7 +1,7 @@
 @title[Introduction]
-# Post-Award Checklist
-## NCSU Libraries
-### Brian Dietz @diuhtez
+## Post-Award Checklist
+### NCSU Libraries
+#### Brian Dietz @diuhtez
 ---
 @title[Introduction]
 ## Intro
