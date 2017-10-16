@@ -6,6 +6,7 @@
 @title[Introduction]
 ## Intro
 - Props to BC and SN
+- test
 ---
 @title[RDC]
 ## RDC as context
@@ -18,7 +19,7 @@
 @title[Checklist]
 ## Checklist
 - seemed useful
-- wouldn't over commit us to a tool that researchers may not take up 
+- wouldn't over commit us to a tool that researchers may not take up
 ---
 @title[Environmental scan]
 ## performed an environmental scan
@@ -60,5 +61,3 @@
 @title[Thanks]
 ## Thanks
 - go link
-
-
