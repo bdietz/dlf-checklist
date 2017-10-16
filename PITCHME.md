@@ -1,11 +1,12 @@
 @title[Introduction]
 ## Post-Award Checklist
-Brian Dietz @diuhtez
+Brian Dietz @diuhtez<br>
 NCSU Libraries
 ---
 @title[Introduction]
 ### Intro
-- Props to BC and SN
+[Bertha](assets/change.jpg)
+[Sonoe](assets/nakasone.jpg)
 Note: introduce Bertha and Sonoe
 ---
 @title[RDC]
