@@ -6,7 +6,7 @@
 @title[Introduction]
 ## Intro
 - Props to BC and SN
-- test
+Note: introducd Bertha and Sonoe
 ---
 @title[RDC]
 ## RDC as context
