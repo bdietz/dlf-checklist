@@ -1,4 +1,3 @@
 theme : white
 logo: assets/block-logo.png
-vertical-center : false
 theme-override : assets/css/PITCHME.css
