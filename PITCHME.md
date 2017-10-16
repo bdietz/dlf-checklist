@@ -5,7 +5,7 @@ NCSU Libraries
 ---
 @title[Introduction]
 ### My Collaborators
-![Bertha](assets/chang.jpg)
+![Bertha](assets/chang.jpg | width=100)
 ![Sonoe](assets/nakasone.jpg)
 Note: introduce Bertha and Sonoe
 ---
