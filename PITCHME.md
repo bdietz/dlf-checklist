@@ -5,8 +5,8 @@ NCSU Libraries
 ---
 @title[Introduction]
 ### Intro
-[Bertha](assets/change.jpg)
-[Sonoe](assets/nakasone.jpg)
+![Bertha](assets/change.jpg)
+![Sonoe](assets/nakasone.jpg)
 Note: introduce Bertha and Sonoe
 ---
 @title[RDC]
