@@ -4,8 +4,8 @@ Brian Dietz @diuhtez<br>
 NCSU Libraries
 ---
 @title[Introduction]
-### Intro
-![Bertha](assets/change.jpg)
+### My Collaborators
+![Bertha](assets/chang.jpg)
 ![Sonoe](assets/nakasone.jpg)
 Note: introduce Bertha and Sonoe
 ---
@@ -53,8 +53,8 @@ Note: edit
 ---
 @title[Go link]
 ### go link for tracking
-- go link
-- CC 0
+http://go.ncsu.edu/post-award_dmpchecklist
+CC 0
 Note: edit
 ---
 @title[Additional work]
@@ -73,4 +73,4 @@ Note: edit
 ---
 @title[Thanks]
 ### Thanks
-- go link
+http://go.ncsu.edu/post-award_dmpchecklist
