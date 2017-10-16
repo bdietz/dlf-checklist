@@ -76,7 +76,7 @@ Note: edit
 @title[Monitoring]
 ### Monitoring use (via web stats)
 http://go.ncsu.edu/post-award_dmpchecklist <br>
-CC 0
+<img src="assets/ccpd.png" alt="Bertha" width="379px" height="133px">
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
 ---
 @title[Going live]
