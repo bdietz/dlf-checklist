@@ -27,15 +27,22 @@ Note: edit
 ---
 @title[Checklist]
 ### Checklist
+...Know-how is often unmanageable...
+Atul Gawande, Checklist Manifesto
+---
+@title[Checklist]
+### Checklist
 - Wouldn't over commit us to a tool that researchers may not take up
 Note: edit
 ---
 @title[Environmental scan]
 ### Environmental scan
-- Datacure
-- Responses: useful but different than what we were thinking
-- Seemed to indicate an interest and a need
-Note: edit
+- Emailed DataCure list
+- Responses
+ - Data Stewardship Action Team
+ - Johns Hopkins University Libraries
+ - National Center for Atmospheric Research
+Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
 ---
 @title[Lifecycle]
 ### sections follow research "lifecycle"
@@ -49,11 +56,13 @@ Note: edit
 Note: edit
 ---
 @title[Campus feedback]
-### sought feedback from IRB and research admin
-Note: edit
+### Campus feedback
+- IRB
+- research admin
+Note: suggested changes we incorporated into our draft
 ---
 @title[Annotated copy]
-### shared vs annotated copies
+### Shared vs Annotated Copies
 - Guwande quote on extensiveness of checklist?
 - linked to from IRB and one college
 Note: edit
