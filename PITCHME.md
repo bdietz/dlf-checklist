@@ -1,15 +1,15 @@
 @title[Introduction]
 ## Post-Award Checklist
-### NCSU Libraries
 Brian Dietz @diuhtez
+NCSU Libraries
 ---
 @title[Introduction]
-## Intro
+### Intro
 - Props to BC and SN
 Note: introduce Bertha and Sonoe
 ---
 @title[RDC]
-## RDC as context
+### RDC as context
 - targeted, nimble
 - make up
 - focus on dmp and workshops and compliance and promotion
@@ -18,23 +18,23 @@ Note: introduce Bertha and Sonoe
 Note: edit
 ---
 @title[Checklist]
-## Checklist
+### Checklist
 - seemed useful
 - wouldn't over commit us to a tool that researchers may not take up
 Note: edit
 ---
 @title[Environmental scan]
-## performed an environmental scan
+### performed an environmental scan
 - Datacure email
 - Note on what we found, useful but different than what we were hoping for
 - Seemed to indicate both an interest and a need
 Note: edit
 ---
 @title[Lifecycle]
-## sections follow research "lifecycle"
+### sections follow research "lifecycle"
 Note: edit
 ---
-## Approachable terms
+### Approachable terms
 - "Before you start"
 - "When you’re ready to share"
 - Workflow references (simple and otherwise)
@@ -42,34 +42,34 @@ Note: edit
 Note: edit
 ---
 @title[Campus feedback]
-## sought feedback from IRB and research admin
+### sought feedback from IRB and research admin
 Note: edit
 ---
 @title[Annotated copy]
-## shared vs annotated copies
+### shared vs annotated copies
 - linked to from IRB and one college
 Note: edit
 ---
 @title[Go link]
-## go link for tracking
+### go link for tracking
 - go link
 - CC 0
 Note: edit
 ---
 @title[Additional work]
-## Ongoing and future work
+### Ongoing and future work
 - RADAR DMP follow up
 - Contacting researchers
 Note: edit
 ---
 @title[Monitoring]
-## Monitoring use (via web stats)
+### Monitoring use (via web stats)
 Note: edit
 ---
 @title[Going live]
-## Soliciting feedback
+### Soliciting feedback
 Note: edit
 ---
 @title[Thanks]
-## Thanks
+### Thanks
 - go link
