@@ -27,8 +27,9 @@ Note: edit
 ---
 @title[Checklist]
 ### Checklist
-...Know-how is often unmanageable...
-Atul Gawande, Checklist Manifesto
+> ...Know-how is often unmanageable...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 ---
 @title[Checklist]
 ### Checklist
@@ -45,14 +46,20 @@ Note: edit
 Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
 ---
 @title[Lifecycle]
-### sections follow research "lifecycle"
-Note: edit
----
-### Approachable terms
-- "Before you start"
-- "When you’re ready to share"
+### Research Lifecycle
 - Workflow references (simple and otherwise)
 - Whose work did we reference
+Note: edit
+---
+### Approachable Terms
+- Before you begin
+- As you begin your research
+- As you’re acquiring and analyzing
+- When it’s time to publish
+- When it’s time to share
+- When it’s time to “preserve” your output
+- When it’s all done
+- All along the way
 Note: edit
 ---
 @title[Campus feedback]
@@ -63,30 +70,31 @@ Note: suggested changes we incorporated into our draft
 ---
 @title[Annotated copy]
 ### Shared vs Annotated Copies
-- Guwande quote on extensiveness of checklist?
-- linked to from IRB and one college
+> Good checklists, on the other hand are precise. They are efficient, to the point, and easy to use even in the most difficult situations. They do not try to spell out everything--a checklist cannot fly a plane.
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 Note: edit
 ---
 @title[Additional work]
 ### Ongoing and future work
 - RADAR DMP follow up
 - Contacting researchers
+- linked to from IRB and one college
 Note: edit
 ---
 @title[Monitoring]
-### Monitoring use (via web stats)
-http://go.ncsu.edu/post-award_dmpchecklist <br>
-<img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px">
+### Monitoring use
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
 ---
 @title[Going live]
 ### Soliciting feedback
 - Faculty and researchers
 - Community
-- YOU!
+- You!
 Note: edit
 ---
 @title[Thanks]
 ### Thanks
-http://go.ncsu.edu/post-award_dmpchecklist <br><br>
+http://go.ncsu.edu/post-award_dmpchecklist <br>
+<img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px">
 library_datamanagement@ncsu.edu
