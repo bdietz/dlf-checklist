@@ -96,5 +96,5 @@ Note: edit
 @title[Thanks]
 ### Thanks
 http://go.ncsu.edu/post-award_dmpchecklist <br>
-<img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px">
+<img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px"><br>
 library_datamanagement@ncsu.edu
