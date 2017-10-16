@@ -6,6 +6,7 @@ NCSU Libraries
 @title[Introduction]
 ### My Collaborators
 ![Bertha](assets/chang.jpg | width=100)
+<img src="assets/chang.jpg" alt="Bertha" width="100px" height="100px">
 ![Sonoe](assets/nakasone.jpg)
 Note: introduce Bertha and Sonoe
 ---
