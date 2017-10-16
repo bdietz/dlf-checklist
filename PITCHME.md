@@ -97,4 +97,4 @@ Note: edit
 ### Thanks
 http://go.ncsu.edu/post-award_dmpchecklist <br>
 <img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px"><br>
-library_datamanagement@ncsu.edu
+Feedback: library_datamanagement@ncsu.edu
