@@ -76,13 +76,17 @@ Note: edit
 @title[Monitoring]
 ### Monitoring use (via web stats)
 http://go.ncsu.edu/post-award_dmpchecklist <br>
-<img src="assets/ccpd.png" alt="Bertha" width="379px" height="133px">
+<img src="assets/ccpd.png" alt="Bertha" width="250px" height="88px">
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
 ---
 @title[Going live]
 ### Soliciting feedback
+- Faculty and researchers
+- Community
+- YOU!
 Note: edit
 ---
 @title[Thanks]
 ### Thanks
-http://go.ncsu.edu/post-award_dmpchecklist
+http://go.ncsu.edu/post-award_dmpchecklist <br><br>
+library_datamanagement@ncsu.edu
