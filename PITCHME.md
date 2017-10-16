@@ -5,9 +5,8 @@ NCSU Libraries
 ---
 @title[Introduction]
 ### My Collaborators
-![Bertha](assets/chang.jpg | width=100)
-<img src="assets/chang.jpg" alt="Bertha" width="100px" height="100px">
-![Sonoe](assets/nakasone.jpg)
+<img src="assets/chang.jpg" alt="Bertha" width="480px" height="480px">
+<img src="assets/nakasone.jpg" alt="Sonoe" width="480px" height="480px">
 Note: introduce Bertha and Sonoe
 ---
 @title[RDC]
