@@ -3,33 +3,38 @@
 Brian Dietz @diuhtez<br>
 NCSU Libraries
 ---
-@title[Introduction]
-### My Collaborators
-<img src="assets/chang.jpg" alt="Bertha" width="240px" height="240px">
-<img src="assets/nakasone.jpg" alt="Sonoe" width="240px" height="240px"><br>
+@title[Collaborators]
+### Collaborators
+<img src="assets/chang.jpg" alt="Bertha" width="300px" height="300px">
+<img src="assets/nakasone.jpg" alt="Sonoe" width="300px" height="300px"><br>
 Bertha Chang | Sonoe Nakasone
-Note: introduce Bertha and Sonoe
+Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 ---
 @title[RDC]
-### RDC as context
-- targeted, nimble
-- make up
-- focus on dmp and workshops and compliance and promotion
-- work had been focused on up to the point of grant application
-- looking for strategic way to assist researchers with what happened after grant was awarded
+### Research Data Committee
+- Targeted, nimble
+- Membership draws from across Libraries
+- DMPs, workshops, compliance, promotion
+- Focused on up to the point of grant application
+- Looking for strategic way to assist researchers with what happened after grant was awarded
 Note: edit
 ---
 @title[Checklist]
 ### Checklist
-- seemed useful
-- wouldn't over commit us to a tool that researchers may not take up
+A checklist is a type of informational job aid used to reduce failure by compensating for potential limits of human memory and attention. It helps to ensure consistency and completeness in carrying out a task.
+https://en.wikipedia.org/wiki/Checklist
+Note: edit
+---
+@title[Checklist]
+### Checklist
+- Wouldn't over commit us to a tool that researchers may not take up
 Note: edit
 ---
 @title[Environmental scan]
-### performed an environmental scan
-- Datacure email
-- Note on what we found, useful but different than what we were hoping for
-- Seemed to indicate both an interest and a need
+### Environmental scan
+- Datacure
+- Responses: useful but different than what we were thinking
+- Seemed to indicate an interest and a need
 Note: edit
 ---
 @title[Lifecycle]
@@ -49,13 +54,8 @@ Note: edit
 ---
 @title[Annotated copy]
 ### shared vs annotated copies
+- Guwande quote on extensiveness of checklist?
 - linked to from IRB and one college
-Note: edit
----
-@title[Go link]
-### go link for tracking
-http://go.ncsu.edu/post-award_dmpchecklist
-CC 0
 Note: edit
 ---
 @title[Additional work]
@@ -66,7 +66,9 @@ Note: edit
 ---
 @title[Monitoring]
 ### Monitoring use (via web stats)
-Note: edit
+http://go.ncsu.edu/post-award_dmpchecklist <br>
+CC 0
+Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
 ---
 @title[Going live]
 ### Soliciting feedback
