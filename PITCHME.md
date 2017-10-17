@@ -42,6 +42,7 @@ Note: Wouldn't over commit us to a tool that researchers may not take up; BUT mi
 ---
 @title[Environmental scan]
 ### Environmental Scan
+- Poked around web (unsystematic)
 - Emailed DataCure list
 - Responses
  - Data Stewardship Action Team
