@@ -65,6 +65,7 @@ Note: edit
 ---
 @title[Research Lifecycle]
 ### Research Lifecycle
+Checklist sections
 - Before you begin
 - As you begin your research
 - As you’re acquiring and analyzing
