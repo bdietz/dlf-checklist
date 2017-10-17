@@ -75,13 +75,13 @@ Note: edit
 ---
 @title[Campus feedback]
 ### Campus feedback
-- IRB
-- research admin
-Note: suggested changes we incorporated into our draft
+- Institutional Review Board
+- Office of Research, Innovation, and Economic Development
+Note: IRB advise to use the checklist while completing the IRB application; tighter integration bt DMP and checklist with IRB; IRB links out to checklist as a resource
 ---
 @title[Annotated copy]
 ### Shared vs Annotated Copies
-> Good checklists, on the other hand are precise. They are efficient, to the point, and easy to use even in the most difficult situations. They do not try to spell out everything--a checklist cannot fly a plane.
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 Note: edit
