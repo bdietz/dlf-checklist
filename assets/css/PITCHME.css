@@ -10,12 +10,10 @@
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #6F7DBC;
-  font-family: "Ubuntu", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: none;
+  font-variant: small-caps;
   text-shadow: none;
   word-wrap: break-word; }
 
