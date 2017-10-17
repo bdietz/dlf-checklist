@@ -63,7 +63,8 @@ Note: We could not tailor a checklist for a certain domain or lab, and we did no
 - Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: edit
 ---
-### Approachable Terms
+@title[Research Lifecycle]
+### Research Lifecycle
 - Before you begin
 - As you begin your research
 - As you’re acquiring and analyzing
@@ -72,6 +73,10 @@ Note: edit
 - When it’s time to “preserve” your output
 - When it’s all done
 - All along the way
+Note: edit
+---
+@title[Jargon]
+### Avoided Jargon
 Note: edit
 ---
 @title[Campus feedback]
@@ -104,7 +109,6 @@ Note: NCSU link shortener, one way to track; additional web tracking via Google 
 Note: edit
 ---
 @title[Thanks]
-### Thanks
 http://go.ncsu.edu/post-award_dmpchecklist <br>
 <img src="assets/ccpd.png" alt="Bertha" width="200px" height="70px"><br>
 Feedback: library_datamanagement@ncsu.edu
