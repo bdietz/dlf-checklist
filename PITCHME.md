@@ -3,14 +3,14 @@
 Brian Dietz @diuhtez<br>
 NCSU Libraries
 ---
-@title[Collaborators]
-### Collaborators
+@title[The Team]
+### The Team
 <img src="assets/chang.jpg" alt="Bertha" width="300px" height="300px">
 <img src="assets/nakasone.jpg" alt="Sonoe" width="300px" height="300px"><br>
 Bertha Chang | Sonoe Nakasone
 Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 ---
-@title[RDC]
+@title[Research Data Committee]
 ### Research Data Committee
 - Targeted, nimble
 - Membership draws from across Libraries
@@ -33,15 +33,15 @@ A checklist is a type of informational job aid used to reduce failure by compens
 https://en.wikipedia.org/wiki/Checklist
 Note: edit
 ---
-@title[Checklist]
-### Nimble
-- Quick turnaround
-- Commitment
-- Iterative
-Note: Wouldn't over commit us to a tool that researchers may not take up
+@title[Investment]
+### Investment
+- Relatively low commitment
+- Potentially high impact
+- Iterative process
+Note: Wouldn't over commit us to a tool that researchers may not take up; BUT might have an big impact with relatively small investment
 ---
 @title[Environmental scan]
-### Environmental scan
+### Environmental Scan
 - Emailed DataCure list
 - Responses
  - Data Stewardship Action Team
@@ -74,23 +74,24 @@ Note: edit
 Note: edit
 ---
 @title[Campus feedback]
-### Campus feedback
+### Campus Feedback
 - Institutional Review Board
 - Office of Research, Innovation, and Economic Development
 Note: IRB advise to use the checklist while completing the IRB application; tighter integration bt DMP and checklist with IRB; IRB links out to checklist as a resource
 ---
 @title[Annotated copy]
-### Shared vs Annotated Copies
+### Public vs Annotated Copies
 > Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-Note: edit
+Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
 ---
 @title[Additional work]
 ### Ongoing and future work
-- RADAR DMP follow up
+- [IRB Submission Guidance page](https://sites.textiles.ncsu.edu/research/data-mangagement)
+- [College of Textiles Research Resources site](https://sites.textiles.ncsu.edu/research/data-mangagement)
+- Research Admin Data and Reporting follow up
 - Contacting researchers
-- linked to from IRB and one college
 Note: edit
 ---
 @title[Monitoring]
@@ -99,9 +100,6 @@ Note: NCSU link shortener, one way to track; additional web tracking via Google 
 ---
 @title[Going live]
 ### Soliciting feedback
-- Faculty and researchers
-- Community
-- You!
 Note: edit
 ---
 @title[Thanks]
