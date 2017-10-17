@@ -52,15 +52,14 @@ Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews
 @title[Audience]
 ### Audience
 For a general audience, by generalists
-Note: edit
+Note: We could not tailor a checklist for a certain domain or lab, and we did not want to presume too much about how researchers conduct their research
 ---
 @title[Research Lifecycle]
 <img src="assets/research-lifecycle.png" alt="Research Lifecycle models" width="1000px" height="456px">
 ---
 @title[Research Lifecycle]
 ### Research Lifecycle
-- Workflow references (simple and otherwise)
-- Whose work did we reference
+- Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: edit
 ---
 ### Approachable Terms
