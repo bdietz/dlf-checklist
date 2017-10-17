@@ -20,21 +20,25 @@ Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 Note: edit
 ---
 @title[Checklist]
-### Checklist
-A checklist is a type of informational job aid used to reduce failure by compensating for potential limits of human memory and attention. It helps to ensure consistency and completeness in carrying out a task.
-https://en.wikipedia.org/wiki/Checklist
-Note: edit
+## Checklist
 ---
 @title[Checklist]
-### Checklist
 > ...Know-how is often unmanageable...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 ---
 @title[Checklist]
 ### Checklist
-- Wouldn't over commit us to a tool that researchers may not take up
+A checklist is a type of informational job aid used to reduce failure by compensating for potential limits of human memory and attention. It helps to ensure consistency and completeness in carrying out a task.
+https://en.wikipedia.org/wiki/Checklist
 Note: edit
+---
+@title[Checklist]
+### Nimble
+- Quick turnaround
+- Commitment
+- Iterative
+Note: Wouldn't over commit us to a tool that researchers may not take up
 ---
 @title[Environmental scan]
 ### Environmental scan
