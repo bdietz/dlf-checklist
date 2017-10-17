@@ -2,3 +2,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.reveal section h1 h2 h3 {
+  font-variant: small-caps;
+}

@@ -15,11 +15,10 @@ Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 - Core team with rotating membership
 - Draws from across Libraries
 - Extends expertise beyond specialists
-- Targeted, nimble approach
 Note: Since around 2011...
 ---
-@title[Research Data Committee]
-### Research Data Committee
+@title[RDC approach]
+### Targeted and Nimble
 - DMPs, workshops, compliance, promotion
 - Focused on supporting up to the point of grant application
 - Looking for strategic way to assist researchers with what happened post-award
