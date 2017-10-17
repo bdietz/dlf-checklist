@@ -4,7 +4,7 @@ Brian Dietz @diuhtez<br>
 NCSU Libraries
 ---
 @title[The Team]
-### The Team
+### Best Teammates Ever
 <img src="assets/chang.jpg" alt="Bertha" width="300px" height="300px">
 <img src="assets/nakasone.jpg" alt="Sonoe" width="300px" height="300px"><br>
 Bertha Chang | Sonoe Nakasone
