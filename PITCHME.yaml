@@ -1,3 +1,4 @@
 theme : black
+transition: none
 logo: assets/block-logo.png
 theme-override : assets/css/PITCHME.css
