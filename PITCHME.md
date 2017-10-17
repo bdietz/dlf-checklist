@@ -55,7 +55,7 @@ For a general audience, by generalists
 Note: edit
 ---
 @title[Research Lifecycle]
-<img src="assets/research-lifecycle.png" alt="Research Lifecycle models">
+<img src="assets/research-lifecycle.png" alt="Research Lifecycle models" width="1000px" height="456px">
 ---
 @title[Research Lifecycle]
 ### Research Lifecycle
