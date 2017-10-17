@@ -49,7 +49,15 @@ Note: Wouldn't over commit us to a tool that researchers may not take up
  - National Center for Atmospheric Research
 Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
 ---
-@title[Lifecycle]
+@title[Audience]
+### Audience
+For a general audience, by generalists
+Note: edit
+---
+@title[Research Lifecycle]
+<img src="assets/research-lifecycle.png" alt="Research Lifecycle models">
+---
+@title[Research Lifecycle]
 ### Research Lifecycle
 - Workflow references (simple and otherwise)
 - Whose work did we reference
