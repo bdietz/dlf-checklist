@@ -12,12 +12,18 @@ Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 ---
 @title[Research Data Committee]
 ### Research Data Committee
-- Targeted, nimble
-- Membership draws from across Libraries
+- Core team with rotating membership
+- Draws from across Libraries
+- Extends expertise beyond specialists
+- Targeted, nimble approach
+Note: Since around 2011...
+---
+@title[Research Data Committee]
+### Research Data Committee
 - DMPs, workshops, compliance, promotion
-- Focused on up to the point of grant application
-- Looking for strategic way to assist researchers with what happened after grant was awarded
-Note: edit
+- Focused on supporting up to the point of grant application
+- Looking for strategic way to assist researchers with what happened post-award
+Note: Since around 2011...
 ---
 @title[Checklist]
 ## Checklist
