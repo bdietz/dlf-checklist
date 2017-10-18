@@ -2,3 +2,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.reveal h3 { 
+    word-spacing: 30px;
+}
