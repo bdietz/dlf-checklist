@@ -5,6 +5,5 @@
 
 .reveal h3 {
     word-spacing: 7px;
-    text-transform: none;
-    font-variant: small-caps;
+    text-transform: lowercase;
 }
