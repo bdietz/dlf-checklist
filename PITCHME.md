@@ -82,7 +82,7 @@ Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristi
 Note: edit
 ---
 @title[Jargon]
-### Avoided JARGON
+### Avoided Jargon
 Note: edit
 ---
 @title[Sharing]
