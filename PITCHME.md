@@ -139,8 +139,8 @@ Note: edit
 ### Campus Support
 - [IRB Submission Guidance page](https://sites.textiles.ncsu.edu/research/data-mangagement)
 - [College of Textiles Research Resources site](https://sites.textiles.ncsu.edu/research/data-mangagement)
-<!--
 ---
+<!--
  @title[Monitoring]
 ### Monitoring use
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
