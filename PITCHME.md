@@ -48,6 +48,13 @@ Note: From a general perspective, why might a checklist be useful? What's the li
 - Iterative process
 Note: From the RDC's perspective, we could quickly prototype a tool with appeal. It wouldn't over commit us to a developing a thing that researchers may not take up. OR it might be terribly useful and have been a relatively small investment. Further, the process could be iterative: we could roll something out, get feedback, improve, and repeat.
 ---
+@title[Scope and Length]
+### The Approach
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
+---
 @title[Environmental scan]
 ### Environmental Scan
 - Poked around web (unsystematic)
@@ -57,13 +64,6 @@ Note: From the RDC's perspective, we could quickly prototype a tool with appeal.
  - Johns Hopkins University Libraries
  - National Center for Atmospheric Research
 Note: Naturally we started with an environmental scan to make sure no one had done this. We started by poking around the web, which was inefficient. Bertha sent a message to the DataCure list. We receive three responses. DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
----
-@title[Scope and Length]
-### The Approach
-> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
 ---
 @title[Audience]
 ### For a general audience, by generalists
@@ -139,12 +139,13 @@ Note: edit
 ### Campus Support
 - [IRB Submission Guidance page](https://sites.textiles.ncsu.edu/research/data-mangagement)
 - [College of Textiles Research Resources site](https://sites.textiles.ncsu.edu/research/data-mangagement)
+<!--
 ---
-<!-- @title[Monitoring]
+ @title[Monitoring]
 ### Monitoring use
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
----
 -->
+---
 @title[Going live]
 ### Soliciting feedback
 Note: edit
