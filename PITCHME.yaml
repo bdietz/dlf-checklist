@@ -1,4 +1,4 @@
 theme : white
-transition: none
+transition: slide
 logo: assets/block-logo.png
 theme-override : assets/css/PITCHME.css
