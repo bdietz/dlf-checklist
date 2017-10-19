@@ -24,31 +24,6 @@ Note: Since around 2011...
 - Looking for strategic way to assist researchers with what happened post-award
 Note: Since around 2011...
 ---
-@title[Checklist]
-### Checklist
----
-@title[Checklist]
-### Checklist
-
-> ...Know-how is often unmanageable...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-
-> A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
-
-https://en.wikipedia.org/wiki/Checklist
-Note: So, everyone knows what a checklist is. ToDo lists have been riding a wave of popularity for a long while. Mainly because they're useful. A checklist is a special kind of todo list, in that it
----
-@title[Checklist]
-> ...Know-how is often unmanageable...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
----
-@title[Scope and Length]
-> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
----
 @title[Investment]
 ### Investment
 - Relatively low commitment
@@ -65,6 +40,28 @@ Note: Wouldn't over commit us to a tool that researchers may not take up; BUT mi
  - Johns Hopkins University Libraries
  - National Center for Atmospheric Research
 Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
+---
+@title[Checklist]
+### Checklist "Theory"
+---
+@title[Checklist]
+### Checklist
+> A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
+
+https://en.wikipedia.org/wiki/Checklist
+Note: So, everyone knows what a checklist is. ToDo lists are a form of checklist that have been riding a wave of popularity for a long while. Mainly because they're useful. Why? Because of the limits of human memory. We're not able to remember all of our assignments that come out of a meeting. Or all of the steps that are required to complete a workflow.
+---
+@title[Checklist]
+> ...Know-how is often unmanageable...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+Note: Atul Gawande, who wrote a short and engaging book on checklists, wrote "know-how is often unmanageable"
+---
+@title[Scope and Length]
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they tear off of the earth.
 ---
 @title[Audience]
 ### Audience
