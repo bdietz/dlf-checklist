@@ -79,7 +79,7 @@ Note: We started by referencing various research lifecycle models. There are lot
 ### Data Lifecycle as Map for Data Management
 > ...you principally have to worry about the data management practices for whatever part of the lifecycle you are currently in.
 
-- Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
+Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristin Briney's Data Management for Researchers to be the most useful model.
 
 ---
