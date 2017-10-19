@@ -24,12 +24,29 @@ Note: Since around 2011...
 - Looking for strategic way to assist researchers with what happened post-award
 Note: Since around 2011...
 ---
+@title[Post-Award Checklist]
+### Post-Award Checklist
+---
+@title[Checklist]
+### Why a checklist for researchers?
+
+> ...Know-how is often unmanageable...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+
+<!--
+> A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
+
+https://en.wikipedia.org/wiki/Checklist
+-->
+Note: From a general perspective, why might a checklist be useful? What's the life of a researcher as data manager with a DMP, that they intend to adhere to, on top of their primary work of collecting and analyzing data, and writing and publishing papers. On top of their complicated researcher lives, they're also supposed to become information professionals.
+---
 @title[Investment]
-### Investment
+### Why a Checklist for the committee?
 - Relatively low commitment
 - Potentially high impact
 - Iterative process
-Note: Wouldn't over commit us to a tool that researchers may not take up; BUT might have an big impact with relatively small investment
+Note: From the RDC's perspective, we could quickly prototype a tool with appeal. It wouldn't over commit us to a developing a thing that researchers may not take up. OR it might be terribly useful and have been a relatively small investment. Further, the process could be iterative: we could roll something out, get feedback, improve, and repeat.
 ---
 @title[Environmental scan]
 ### Environmental Scan
@@ -39,34 +56,18 @@ Note: Wouldn't over commit us to a tool that researchers may not take up; BUT mi
  - Data Stewardship Action Team
  - Johns Hopkins University Libraries
  - National Center for Atmospheric Research
-Note: DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
----
-@title[Checklist]
-### Checklist "Theory"
----
-@title[Checklist]
-### Checklist
-> A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
-
-https://en.wikipedia.org/wiki/Checklist
-Note: So, everyone knows what a checklist is. ToDo lists are a form of checklist that have been riding a wave of popularity for a long while. Mainly because they're useful. Why? Because of the limits of human memory. We're not able to remember all of our assignments that come out of a meeting. Or all of the steps that are required to complete a workflow.
----
-@title[Checklist]
-> ...Know-how is often unmanageable...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-Note: Atul Gawande, who wrote a short and engaging book on checklists, wrote "know-how is often unmanageable"
+Note: Naturally we started with an environmental scan to make sure no one had done this. We started by poking around the web, which was inefficient. Bertha sent a message to the DataCure list. We receive three responses. DSAT (complicated, not ready for prime time); JHS (oriented to DMP reviews); NCAR (well-developed but specialized to them); seemed to indicate an interest and a need
 ---
 @title[Scope and Length]
+### The Approach
 > Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they tear off of the earth.
+Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
 ---
 @title[Audience]
-### Audience
-For a general audience, by generalists
-Note: We could not tailor a checklist for a certain domain or lab, and we did not want to presume too much about how researchers conduct their research
+### For a general audience, by generalists
+Note: With that in mind...we could not tailor a checklist for a certain domain or lab, and we did not want to presume too much about how researchers conduct their research
 ---
 @title[Research Lifecycle]
 <img src="assets/research-lifecycle.png" alt="Research Lifecycle models" width="1000px" height="456px">
@@ -139,10 +140,11 @@ Note: edit
 - [IRB Submission Guidance page](https://sites.textiles.ncsu.edu/research/data-mangagement)
 - [College of Textiles Research Resources site](https://sites.textiles.ncsu.edu/research/data-mangagement)
 ---
-@title[Monitoring]
+<!-- @title[Monitoring]
 ### Monitoring use
 Note: NCSU link shortener, one way to track; additional web tracking via Google Analytics
 ---
+-->
 @title[Going live]
 ### Soliciting feedback
 Note: edit
