@@ -70,11 +70,14 @@ Note: Naturally we started with an environmental scan to make sure no one had do
 Note: With that in mind...we could not tailor a checklist for a certain domain or lab, and we did not want to presume too much about how researchers conduct their research
 ---
 @title[Research Lifecycle]
+### Data Lifecycle
 <img src="assets/research-lifecycle.png" alt="Research Lifecycle models" width="1000px" height="456px">
+
+o_0
 Note: We started by referencing various research lifecycle models. There are lot to choose from, some are extremely complicated and would not map to a checklist, and we wanted to make this a simple tool for researchers to use.
 ---
 @title[Research Lifecycle]
-### Research Lifecycle
+### Data Lifecycle
 - Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristin Briney's Data Management for Researchers to be the most useful model.
 ---
@@ -92,13 +95,12 @@ Note: Tried to break down the lifecycle into simple sections that excluded jargo
 ---
 @title[Checklist Items]
 ### Checklist Items
-Four pages, 35 items
 - Roles
 - Documentation
 - File management
 - Backup and preservation
 - Identifying repositories
-Note:
+Note: Four pages, 35 items
 ---
 @title[Resources]
 ### Resources
