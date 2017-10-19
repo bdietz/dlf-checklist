@@ -111,10 +111,10 @@ Note: Other than their own DMP and the Libraries, we also refer checklist users 
 ---
 @title[Sharing]
 ### Sharing as a Google Doc
-http://go.ncsu.edu/post-award_dmpchecklist
 - Quick to deploy
 - Easy to share
 - Iterate if/when necessary
+http://go.ncsu.edu/post-award_dmpchecklist
 Note: We created the checklist as google doc, but then we decided it was the best form for sharing, also.
 ---
 @title[Annotated copy]
