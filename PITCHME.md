@@ -28,15 +28,26 @@ Note: Since around 2011...
 ### Checklist
 ---
 @title[Checklist]
+### Checklist
+
+> ...Know-how is often unmanageable...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+
+> A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
+
+https://en.wikipedia.org/wiki/Checklist
+Note: So, everyone knows what a checklist is. ToDo lists have been riding a wave of popularity for a long while. Mainly because they're useful. A checklist is a special kind of todo list, in that it
+---
+@title[Checklist]
 > ...Know-how is often unmanageable...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 ---
-@title[Checklist]
-### Checklist
-A checklist is a type of informational job aid used to reduce failure by compensating for potential limits of human memory and attention. It helps to ensure consistency and completeness in carrying out a task.
-https://en.wikipedia.org/wiki/Checklist
-Note: edit
+@title[Scope and Length]
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 ---
 @title[Investment]
 ### Investment
@@ -79,11 +90,26 @@ Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristi
 - When it’s time to “preserve” your output
 - When it’s all done
 - All along the way
-Note: edit
+Note: Tried to break down the lifecycle into simple sections that excluded jargon and would map across domains. So we used broad categories like before you do X, as you're doing Y, all along the way.
 ---
-@title[Jargon]
-### Avoided Jargon
-Note: edit
+@title[Checklist Items]
+### Checklist Items
+Four pages, 35 items
+- Roles
+- Documentation
+- File management
+- Backup and preservation
+- Identifying repositories
+Note:
+---
+@title[Resources]
+### Resources
+- Their own DMP
+- The Libraries
+- IRB
+- Campus IT
+- College research officers
+Note: Other than their own DMP and the Libraries, we also refer checklist users to the IRB, campus IT, and college research officers, among other campus resources
 ---
 @title[Sharing]
 ### Sharing as a Google Doc
@@ -95,9 +121,6 @@ Note: We created the checklist as google doc, but then we decided it was the bes
 ---
 @title[Annotated copy]
 ### Public vs Annotated Copies
-> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
 ---
 @title[Campus feedback]
