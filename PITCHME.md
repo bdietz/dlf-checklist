@@ -122,15 +122,15 @@ Note: Other than their own DMP and the Libraries, we also refer checklist users 
 http://go.ncsu.edu/post-award_dmpchecklist
 Note: We created the checklist as google doc, but then we decided it was the best form for sharing, also.
 ---
-@title[Annotated copy]
-### Public vs Annotated Copies
-Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
----
 @title[Campus feedback]
 ### Campus Feedback
 - Institutional Review Board
 - Office of Research, Innovation, and Economic Development
 Note: IRB advise to use the checklist while completing the IRB application; tighter integration bt DMP and checklist with IRB; IRB links out to checklist as a resource
+---
+@title[Annotated copy]
+### Public vs Annotated Copies
+Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
 ---
 @title[Additional work]
 ### Ongoing and future work
