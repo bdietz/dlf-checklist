@@ -73,13 +73,15 @@ Note: With that in mind...we could not tailor a checklist for a certain domain o
 ### Data Lifecycle
 <img src="assets/research-lifecycle.png" alt="Research Lifecycle models" width="1000px" height="456px">
 
-o_0
 Note: We started by referencing various research lifecycle models. There are lot to choose from, some are extremely complicated and would not map to a checklist, and we wanted to make this a simple tool for researchers to use.
 ---
 @title[Research Lifecycle]
 ### Data Lifecycle
+> Using the data lifecycle as an outline for data management ... is not only helpful for thinking conceptually about data management but also for managing data during a project – you principally have to worry about the data management practices for whatever part of the lifecycle you are currently in.
+
 - Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristin Briney's Data Management for Researchers to be the most useful model.
+
 ---
 @title[Research Lifecycle]
 ### Lifecycle: Sections
