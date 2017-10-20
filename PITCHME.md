@@ -60,7 +60,7 @@ Note: With that in mind...we could not tailor a checklist for a certain domain o
 ---
 @title[Research Lifecycle]
 ### Data Lifecycle as Map for Data Management
-> ...you principally have to worry about the data management practices for whatever part of the lifecycle you are currently in.
+> ...you principally have to worry about the data management practices for whatever part of the lifecycle you are currently in...
 
 Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: https://catalog.lib.ncsu.edu/record/NCSU3913377 We ultimately found Kristin Briney's Data Management for Researchers to be the most useful model.
@@ -124,7 +124,7 @@ Note: We have shared with a limited audience to date. Our campus IRB reviewed it
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 
-Note: The initial draft was much more detailed than the latest version. After reviewing with other committee members, we decided to move some checklist items into comments that liaisons could refer to when meeting with researchers to discuss implementing the checklist. The staff full-edit is annotated; the annotations are not visible in the public, read-only view. The result is that we have one canonical copy, not two. 
+Note: The initial draft was much more detailed than the latest version. After reviewing with other committee members, we decided to move some checklist items into comments that liaisons could refer to when meeting with researchers to discuss implementing the checklist. The staff full-edit is annotated; the annotations are not visible in the public, read-only view. The result is that we have one canonical copy, not two.
 ---
 @title[Additional work]
 ### Ongoing and future work
