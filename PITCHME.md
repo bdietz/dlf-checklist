@@ -15,45 +15,41 @@ Note: Collaboration with Bertha and Sonoe, as well as others on RDC
 - Core team with rotating membership
 - Draws from across Libraries
 - Extends expertise beyond specialists
-Note: Since around 2011...
+Note: The Libraries RDC has been operating in an organized way since 2011. Functional roles from across the Libraries are represented on the committee, which includes a core team. One rationale to this approach is to extend expertise beyond the core team to librarians who interact with research data, and who can offer their perspectives to the committee.
 ---
 @title[RDC approach]
 ### Targeted and Nimble
-- DMPs, workshops, compliance, promotion
-- Focused on supporting up to the point of grant application
+- DMPs, workshops, copyright, promotion, and compliance
+- Focused on supporting researchers up to the point of grant application
 - Looking for strategic way to assist researchers with what happened post-award
-Note: Since around 2011...
+Note: The work of the RDC has focused on supporting researchers up to the point of their grant application, and has focused on a DMP review service and internal workshops. With our DMP becoming more mature and more active, there's been a desire to offer services to researchers manage their data post-award.
 ---
 @title[Post-Award Checklist]
 ### Post-Award Checklist
+Note: One tool we've recently developed is what we call, simply, a "Post Award Checklist"
 ---
 @title[Checklist]
 ### Why a checklist for researchers?
 
-> ...Know-how is often unmanageable...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-
-<!--
 > A checklist is a type of informational job aid used to reduce failure by compensating for **potential limits of human memory and attention**. It helps to ensure **consistency and completeness** in carrying out a task.
 
 https://en.wikipedia.org/wiki/Checklist
+
+Note: From a general perspective, why might a checklist be useful? What should we expect a researcher's expertise to be? Both Materials Science and Engineering AND information management? A checklist, as a tool to compensate for the limits of our mental capacity, could help people adhere to their DMPs and manage their data effectively.
+---
+<!--@title[Checklist]
+
+> ...Know-how is often unmanageable...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 -->
-Note: From a general perspective, why might a checklist be useful? What's the life of a researcher as data manager with a DMP, that they intend to adhere to, on top of their primary work of collecting and analyzing data, and writing and publishing papers. On top of their complicated researcher lives, they're also supposed to become information professionals.
 ---
 @title[Investment]
 ### Why a Checklist for the committee?
 - Relatively low commitment
 - Potentially high impact
 - Iterative process
-Note: From the RDC's perspective, we could quickly prototype a tool with appeal. It wouldn't over commit us to a developing a thing that researchers may not take up. OR it might be terribly useful and have been a relatively small investment. Further, the process could be iterative: we could roll something out, get feedback, improve, and repeat.
----
-@title[Scope and Length]
-### The Approach
-> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
-Note: He also wrote that they're precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
+Note: At the same time, from the RDC's perspective, a checklist was attractive because we could quickly prototype a tool that might have an impact. Alternately, if it was a failure, it would have been a fairly small investment of time. Either way, the process could be iterative: we could roll something out, get feedback, improve, and repeat.
 ---
 @title[Environmental scan]
 ### Environmental Scan
@@ -116,19 +112,26 @@ Note: Other than their own DMP and the Libraries, we also refer checklist users 
 ### Sharing as a Google Doc
 - Quick to deploy
 - Easy to share
-- Iterate if/when necessary
+- Add to your Drive as edit as necessary
+- Iterate if/when necessary (version control, too)
 
 http://go.ncsu.edu/post-award_dmpchecklist
-Note: We created the checklist as google doc, but then we decided it was the best form for sharing, also.
+Note: We created the draft checklist as google doc, but then we decided it was the ideal to share at least the early version of it. One appeal, since we knew our version couldn't cover specifics of all users, is that researchers can add it to their own Drives and edit as needed.
 ---
 @title[Campus feedback]
 ### Campus Feedback
 - Institutional Review Board
 - Office of Research, Innovation, and Economic Development
-Note: IRB advise to use the checklist while completing the IRB application; tighter integration bt DMP and checklist with IRB; IRB links out to checklist as a resource
+Note: We have shared with a limited audience to date. Our campus IRB reviewed it and advised that the checklist would be useful to use when researchers were completing the IRB application. Their hope was tighter integration between DMP and checklist with IRB.
 ---
 @title[Annotated copy]
 ### Public vs Annotated Copies
+
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
+
+Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+Note: Atul Gawande, in the Checklist Manifesto, has written that checklists are precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
+
 Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
 ---
 @title[Additional work]
