@@ -124,9 +124,7 @@ Note: We have shared with a limited audience to date. Our campus IRB reviewed it
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 
-Note: Atul Gawande, in the Checklist Manifesto, has written that checklists are precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
-
-Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
+Note: The initial draft was much more detailed than the latest version. After reviewing with other committee members, we decided to move some checklist items into comments that liaisons could refer to when meeting with researchers to discuss implementing the checklist. The staff full-edit is annotated; the annotations are not visible in the public, read-only view. The result is that we have one canonical copy, not two. 
 ---
 @title[Additional work]
 ### Ongoing and future work
