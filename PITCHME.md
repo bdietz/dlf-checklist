@@ -37,13 +37,6 @@ https://en.wikipedia.org/wiki/Checklist
 
 Note: From a general perspective, why might a checklist be useful? What should we expect a researcher's expertise to be? Both Materials Science and Engineering AND information management? A checklist, as a tool to compensate for the limits of our mental capacity, could help people adhere to their DMPs and manage their data effectively.
 ---
-<!--@title[Checklist]
-
-> ...Know-how is often unmanageable...
-
-Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
--->
----
 @title[Investment]
 ### Why a Checklist for the committee?
 - Relatively low commitment
@@ -130,6 +123,7 @@ Note: We have shared with a limited audience to date. Our campus IRB reviewed it
 > Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
+
 Note: Atul Gawande, in the Checklist Manifesto, has written that checklists are precise, efficient, easy to use, and not comprehensive. Checklists are used widely by airline pilots, but, as Gawande has said, the checklist doesn't fly the plane. It just helps the pilots make sure everything is in order before they rattle off of the earth.
 
 Note: Manage as a Google doc for now; public copy is read-only; staff copy has annotations as comments that may help liaisons in discussing checklist with researchers
