@@ -97,10 +97,9 @@ Note: We also refer users to the IRB, campus IT, and college research officers, 
 ---
 @title[Checklist examples]
 ### Examples
-[ ] Establish policy regarding data ownership (if not already specified by funder and/or participating institution(s))
-[ ] Establish “data documentation” (revise as project continues), i.e., metadata
-[ ] Identify a venue or repository that is an appropriate place to share data with your domain/community
-[ ] Consider a consultation with someone from the Libraries
+- [ ] Establish “data documentation” (revise as project continues), i.e., metadata
+- [ ] Identify a venue or repository that is an appropriate place to share data with your domain/community
+- [ ] Consider a consultation with someone from the Libraries
 Note: Here are a couple examples of items.
 ---
 @title[Sharing]
