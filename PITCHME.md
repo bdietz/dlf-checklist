@@ -56,7 +56,7 @@ Note: Starting off in designing our version, we realized that we could not tailo
 ---
 @title[Research Lifecycle]
 ### Data Lifecycle as Organizing Principle
-> ...you principally have to worry about the data management practices for whatever part of the lifecycle you are currently in...
+> ...you principally have to worry about the data management practices for **whatever part of the lifecycle you are currently in**...
 
 Kristin Briney, [Data Management for Researchers](http://dataabinitio.com/?page_id=672)
 Note: We wanted to organize the checklist so that it followed the research data lifecycle, so we started looking at various models.
@@ -122,7 +122,7 @@ Note: To date we have shared with a limited audience. Our campus IRB reviewed it
 @title[Annotated copy]
 ### Public vs Annotated Copies
 
-> Good checklists...are precise. They are efficient, to the point, and easy to use...They do not try to spell out everything...
+> Good checklists...are precise. They are efficient, to the point, and easy to use**...They **do not try to spell out everything**...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 
