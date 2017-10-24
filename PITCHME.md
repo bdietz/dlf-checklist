@@ -1,8 +1,6 @@
 @title[Introduction]
 ## Data Management Post-Award Checklist
-Brian Dietz @diuhtez<br>
-Sonoe Nakasone<br>
-Bertha Chang<br>
+Bertha Chang, Brian Dietz, Sonoe Nakasone<br>
 NCSU Libraries
 ---
 @title[The Team]
