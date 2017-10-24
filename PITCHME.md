@@ -131,10 +131,10 @@ Note: The initial draft was much more detailed than the latest version. After re
 - Contacting researchers
 - Web presence
 - Promotion to community
-Note: We have identified three researchers whose DMPs the RDC reviewed and whose grant applications were funded. Future work includes contacting and meeting them to discuss how they might use the checklist. We’d also like to establish a better web presence for the tool, and promote the tool to the community. 
+Note: We have identified three researchers whose DMPs the RDC reviewed and whose grant applications were funded. Future work includes contacting and meeting them to discuss how they might use the checklist. We’d also like to establish a better web presence for the tool, and promote the tool to the community.
 ---
 @title[Thanks]
 http://go.ncsu.edu/post-award_dmpchecklist <br>
 <img src="assets/ccpd.png" alt="Bertha" width="200px" height="70px"><br>
 Feedback: library_datamanagement@ncsu.edu
-Note: And here's the link again. It's go.ncsu.edu/post-award_dmpchecklist. Please review it if you're interested and let us know what you think. Thanks!
+Note: And here's the link again. It's go.ncsu.edu/post-award_dmpchecklist. If you're interested, please review it, add to it, and let us know what you think. Thanks!
