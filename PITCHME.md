@@ -109,7 +109,7 @@ Note: Here are a couple examples of items. In all, there are about 35 items from
 - Add to your Drive as edit as necessary
 
 http://go.ncsu.edu/post-award_dmpchecklist
-Note: We created our working draft in google docs, but then decided it was the ideal way to share early versions. Perhaps the most useful feature is that since we knew our version couldn't cover specifics of all users, researchers can add our version to their own Drives and edit as needed.
+Note: We created our working draft in google docs, but then decided it was the ideal way to share early versions. One reason was that it was accessible to both us and potential users. Also, since we knew our version couldn't cover specifics of all users, researchers can add our version to their own Drives and edit as needed.
 ---
 @title[Campus feedback]
 ### Campus Feedback
