@@ -122,7 +122,7 @@ Note: To date we have shared with a limited audience. Our campus IRB reviewed it
 @title[Annotated copy]
 ### Public vs Annotated Copies
 
-> Good checklists...are precise. They are efficient, to the point, and easy to use**...They **do not try to spell out everything**...
+> Good checklists...are precise. They are efficient, to the point, and easy to use...They **do not try to spell out everything**...
 
 Atul Gawande, [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)
 
